@@ -2,4 +2,4 @@ This is technically an "SMT" solver for the theory of quantifier-free uninterpre
 
 This requires the `pysmt`, `pysat`, and `egglog` packages, which I would recommend installing via `pip`.
 
-To run the solver: `python3 solve.py examples/multiple_sorts.smt2`. Use the flag `-log` to print an internal log.
+To run the solver: `python3 solve.py examples/nelson1.smt2`. Use the flag `-log` to print an internal log.
