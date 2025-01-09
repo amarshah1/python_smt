@@ -2,4 +2,4 @@ This is technically an "SMT" solver for the theory of quantifier-free uninterpre
 
 This requires the `pysmt`, `python-sat`, and `egglog` packages, which I would recommend installing via `pip`. There is an issue getting the latest python `egglog` pacakge on Linux, but this should work on Mac (and in theory Windows).
 
-To run the solver: `python3 solve.py examples/nelson1.smt2`. Use the flag `-log` to print an internal log.
+To run the solver: `python3 solve.py examples/nelson1.smt2`. You can use the flag `-log` to print an internal log.
